@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">6ML2</string>
+    <string name="Success">Success</string>
+    <string name="Failed">Failed</string>
+    <string name="Image">Image</string>
+    <string name="Submit">Submit</string>
+    <string name="Random_btn">Random bottom</string>
+    <string name="Type_something">Write something</string>
+</resources>
